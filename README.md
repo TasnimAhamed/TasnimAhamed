@@ -7,7 +7,7 @@
 - 👯 I’m looking for collaborate on problem solving in Code Forces
 - ⚡ I always like to learn new things and have experience with new stuff 
 - ⚡ Fun fact: I love to Code, Travel and Explore the world.
-- 📫 How to reach me: tasnima.ahamed.20@gmail.com 
+- 📫 How to reach me: tasnim.ahamed.20@gmail.com 
 
 ### Connect with me:
 
