@@ -2,7 +2,7 @@
 
 
 ## I'm a Curious JavaScript Developer 😍😍!
-- 🔭 I’m currently working React....
+- 🔭 I’m currently working on React....
 - 🌱 I’m currently learning c++ and JavaScript😍
 - 👯 I’m looking for collaborate on problem solving in Code Forces
 - ⚡ I always like to learn new things and have experience with new stuff 
