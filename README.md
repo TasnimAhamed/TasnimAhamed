@@ -17,8 +17,6 @@
 
 <br />
 
-<hr />
-
 ## My Expored Language & Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
