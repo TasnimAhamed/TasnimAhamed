@@ -44,9 +44,10 @@
 
 ** Programming Languages Skill**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-A8B900?style=flat-square&logo=c&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 
 
