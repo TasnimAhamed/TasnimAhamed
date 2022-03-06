@@ -17,7 +17,7 @@
 
 <br />
 
-## My Expored Language & Tools 🛠 
+## My Explored Language & Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B900?style=flat-square&logo=c&logoColor=ffffff)
