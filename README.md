@@ -7,13 +7,12 @@
 - 👯 I’m looking for collaborate on problem solving in Code Forces
 - ⚡ I always like to learn new things and have experience with new stuff 
 - ⚡ Fun fact: I love to Code, Travel and Explore the world.
-- 📫 How to reach me: tasnim.ahamed.20@gmail.com 
+- 📫 How to reach me: tasnim.ahamed.20@gmail.com
 
-### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tasnimahmed20/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/tasnim.ahmed.20/) 
-[![Twitter Follow](https://img.shields.io/badge/Follow-393-lightgrey?logo=twitter&style=social)](https://twitter.com/tasnim_ahmed_20)
+### 🤝 Let's Connect
+[[Codeforces](https://codeforces.com/profile/tasnim07)] | [[LinkedIn](https://www.linkedin.com/in/tasnimahmed20/)] | [[Facebook](https://www.facebook.com/tasnim.ahmed.20)]
+
 
 <br />
 
